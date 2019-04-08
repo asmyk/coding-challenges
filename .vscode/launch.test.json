@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "codewars-solutions",
+                "projectName": "codewars-solutions",
+                "workingDirectory": "/Users/asmyk/projects/codewars-solutions",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "codewars-solutions",
+                "projectName": "codewars-solutions",
+                "workingDirectory": "/Users/asmyk/projects/codewars-solutions",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
